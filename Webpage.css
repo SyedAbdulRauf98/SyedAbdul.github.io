@@ -1,0 +1,30 @@
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+}
+header{
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 40px;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	font-size: 15px;
+	background-color: blue;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
+
+.btn-primary {
+	border-color: black;
+
+}
+.btn-primary:hover {
+	background-color: green;
+	font-size: 20px;
+}
